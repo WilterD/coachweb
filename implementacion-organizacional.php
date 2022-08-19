@@ -31,18 +31,11 @@
 
 <body>
     <div id="wrapper">
-        <style>
-            section#section-home {
-                background-repeat: no-repeat;
-                /* display:none; */
-            }
-        </style>
-
-        <?php include('menu.php'); ?>
+     <?php include('menu.php'); ?>
         <!-- content begin -->
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
-            <section id="section-home" style="" class="text-light" aria-label="section" data-bgimage="url(images/services/implementacion2.jpg) top" data-stellar-background-ratio=".2" data>
+            <section id="section-home" class="text-light" aria-label="section" data-bgimage="url(images/services/implementacion2.jpg) top" data-stellar-background-ratio=".2" data>
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
