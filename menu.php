@@ -52,14 +52,14 @@
                                     <li><a href="#">Formación</a>
                                         <ul>
                                             <li><a href="programas-liderazgo.php">PROGRAMAS LIDERAZGO</a></li>
-                                            <li><a href="#">CURSOS VIRTUALES</a></li>
+                                            <li><a target="_blank" href="https://escuelaproempresarial.com/">CURSOS VIRTUALES</a></li>
                                             <li><a href="#">CERTIFIACIÓN DISC</a></li>
                                             <li><a href="#">CERTIFICACIÓN COACH FUTURAMASTER</a></li>
                                             <li><a href="servicio-cliente.php">SERVICIO AL CLIENTE</a></li>
                                             <li><a href="lider-coach.php">LIDER COACH 4.0</a></li>
                                             <li><a href="taller-metacompetencias.php">TALLER DE METACOMPETENCIAS</a></li>
                                             <li><a href="competencias-360-grados.php">COMPETENCIAS 360 GRADOS</a></li>
-                                            <li><a href="#">LEGO SERIOUS PLAY</a></li>
+                                            <li><a href="lego-play.php">LEGO SERIOUS PLAY</a></li>
                                             <li><a href="#">HERRAMIENTAS PARA CONSULTORES</a></li>
                                             <li><a href="#">COACHING</a></li>
                                         </ul>
