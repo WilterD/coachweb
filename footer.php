@@ -106,7 +106,7 @@
                                     
                                 </div>
                                 <div class="de-flex-col">
-                                    <div class="social-icons bg-danger">
+                                    <div class="social-icons">
                                         <a href="https://www.facebook.com/LOGISTIC-BUSINESS-GROUP-SAS-140491652646223/"><i class="fa fa-facebook fa-lg"></i></a>
                                         <a href="https://twitter.com/Logisticbgroup"><i class="fa fa-twitter fa-lg"></i></a>
                                         <a href="https://www.linkedin.com/company/logistic-business-group?trk=mini-profile"><i class="fa fa-linkedin fa-lg"></i></a>

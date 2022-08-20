@@ -51,11 +51,11 @@
                                    
                                     <li><a href="#">Formación</a>
                                         <ul>
-                                            <li><a href="#">PROGRAMAS LIDERAZGO</a></li>
+                                            <li><a href="programas-liderazgo.php">PROGRAMAS LIDERAZGO</a></li>
                                             <li><a href="#">CURSOS VIRTUALES</a></li>
                                             <li><a href="#">CERTIFIACIÓN DISC</a></li>
                                             <li><a href="#">CERTIFICACIÓN COACH FUTURAMASTER</a></li>
-                                            <li><a href="#">SERVICIO AL CLIENTE</a></li>
+                                            <li><a href="servicio-cliente.php">SERVICIO AL CLIENTE</a></li>
                                             <li><a href="#">LIDER COACH 4.0</a></li>
                                             <li><a href="#">TALLER DE METACOMPETENCIAS</a></li>
                                             <li><a href="#">COMPETENCIAS 360 GRADOS</a></li>
