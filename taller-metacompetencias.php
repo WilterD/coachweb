@@ -53,7 +53,7 @@
                                 <b>TALLER PARA EMPRESAS</b>
                             </h1>
                             <h5>
-                            META COMPETENCIAS PARA EL ÉXITO ORGANIZACIONAL Y EMPRESARIAL
+                                META COMPETENCIAS PARA EL ÉXITO ORGANIZACIONAL Y EMPRESARIAL
                             </h5>
                         </div>
                         <div class="col-md-6">
@@ -61,54 +61,54 @@
                         </div>
                         <div class="col-md-12">
                             <p>
-                        Hemos desarrollado un taller donde trabajaremos las Metacompetencias, las cuales se trata de competencias, que, por la amplitud de su rango de aplicación, superan el ámbito de lo profesional y son comunes a diferentes ocupaciones y actividades laborales al mismo tiempo que son de aplicación en contextos sociales muy diversos.</p>
-<p>
-Las meta competencias poseen una fuerte carga de componentes emocionales y actitudinales que se articulan con elementos cognitivos hasta configurar capacidades de acción muy complejas que posibilitan a la persona trascender las competencias propias de una profesión o actividad específica y extraer el máximo rendimiento a los otros tipos de competencias.
-</p>
-<p>
-En este taller diseñado para empresas los participantes conocerán las estrategias y el manejo de herramientas que permitan un mejor conocimiento de las propias capacidades.
-</p>
-<b>
-TEMÁTICA:</b>
+                                Hemos desarrollado un taller donde trabajaremos las Metacompetencias, las cuales se trata de competencias, que, por la amplitud de su rango de aplicación, superan el ámbito de lo profesional y son comunes a diferentes ocupaciones y actividades laborales al mismo tiempo que son de aplicación en contextos sociales muy diversos.</p>
+                            <p>
+                                Las meta competencias poseen una fuerte carga de componentes emocionales y actitudinales que se articulan con elementos cognitivos hasta configurar capacidades de acción muy complejas que posibilitan a la persona trascender las competencias propias de una profesión o actividad específica y extraer el máximo rendimiento a los otros tipos de competencias.
+                            </p>
+                            <p>
+                                En este taller diseñado para empresas los participantes conocerán las estrategias y el manejo de herramientas que permitan un mejor conocimiento de las propias capacidades.
+                            </p>
+                            <b>
+                                TEMÁTICA:</b>
 
-<ul class="ul-style-2">
-    <li>
-ADAPTABILIDAD / FLEXIBILIDAD</li>
-<li>PRESENCIA</li>
-<li>ANÁLISIS DE SITUACIONES</li>
-<li>APRENDIZAJE</li>
-<li>AUTOCONTROL</li>
-<li>PLASTICIDAD</li>
-<li>AUTONOMÍA</li>
-<li>AUTO-ORGANIZACIÓN</li>
-<li>COMUNICACIÓN INTERPERSONAL</li>
-<li>ESCUCHA PROFUNDA</li>
-<li>CONSCIENCIA ORGANIZATIVA</li>
-<li>DIRECCIÓN DE EQUIPOS</li>
-<li>INICIATIVA</li>
-<li>ACEPTACIÓN</li>
-<li>INNOVACION/CREATIVIDAD</li>
-<li>ORIENTACIÓN AL CLIENTE</li>
-<li>PLANIFICACIÓN</li>
-<li>TOMA DE DECISIONES/ RESOLUCIÓN</li>
-<li>TRABAJO EN EQUIPO</li>
-<li>VISIÓN / SENTIDO DE PROPÓSITO</li>
-<p>
-Nuestros programas se han diseñado con el fin de lograr el máximo aprendizaje, la proporción es de 80% práctica – 20% contenido conceptual, lo que hace que no solo interioricen los fundamentos teóricos, sino que haya exigencia de uso de ellos, con el fin de llevarlos a la cotidianidad de sus vidas de manera natural y fluida. Nos desenvolvemos sobre los cuatro elementos básicos de aprendizaje: PENSAR, OBSERVAR, HACER Y SENTIR 
-</p>
-<p>
-8 HORAS DE TALLER EMPRESARIAL DIVIDIDO EN DOS DÍAS 4 HORAS </p>
-<p>
-MÁS INFORMACIÓN COMERCIAL@LBG.COM.CO CEL:317 666 8090</p>
+                            <ul class="ul-style-2">
+                                <li>
+                                    ADAPTABILIDAD / FLEXIBILIDAD</li>
+                                <li>PRESENCIA</li>
+                                <li>ANÁLISIS DE SITUACIONES</li>
+                                <li>APRENDIZAJE</li>
+                                <li>AUTOCONTROL</li>
+                                <li>PLASTICIDAD</li>
+                                <li>AUTONOMÍA</li>
+                                <li>AUTO-ORGANIZACIÓN</li>
+                                <li>COMUNICACIÓN INTERPERSONAL</li>
+                                <li>ESCUCHA PROFUNDA</li>
+                                <li>CONSCIENCIA ORGANIZATIVA</li>
+                                <li>DIRECCIÓN DE EQUIPOS</li>
+                                <li>INICIATIVA</li>
+                                <li>ACEPTACIÓN</li>
+                                <li>INNOVACION/CREATIVIDAD</li>
+                                <li>ORIENTACIÓN AL CLIENTE</li>
+                                <li>PLANIFICACIÓN</li>
+                                <li>TOMA DE DECISIONES/ RESOLUCIÓN</li>
+                                <li>TRABAJO EN EQUIPO</li>
+                                <li>VISIÓN / SENTIDO DE PROPÓSITO</li>
+                                <p>
+                                    Nuestros programas se han diseñado con el fin de lograr el máximo aprendizaje, la proporción es de 80% práctica – 20% contenido conceptual, lo que hace que no solo interioricen los fundamentos teóricos, sino que haya exigencia de uso de ellos, con el fin de llevarlos a la cotidianidad de sus vidas de manera natural y fluida. Nos desenvolvemos sobre los cuatro elementos básicos de aprendizaje: PENSAR, OBSERVAR, HACER Y SENTIR
+                                </p>
+                                <p>
+                                    8 HORAS DE TALLER EMPRESARIAL DIVIDIDO EN DOS DÍAS 4 HORAS </p>
+                                <p>
+                                    MÁS INFORMACIÓN COMERCIAL@LBG.COM.CO CEL:317 666 8090</p>
                         </div>
 
-                        
+
                     </div>
 
                 </div>
                 <div class="spacer-single"></div>
 
-                
+
         </div>
 
 
