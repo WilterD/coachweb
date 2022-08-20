@@ -37,7 +37,7 @@
 
                                     <div class="col-md-12 text-center">
                                         <div id='submit'>
-                                            <input type='submit' id='send_message' value='Enviar' class="btn-custom">
+                                            <input type='submit' id='send_message' value='Enviar' class="btn-custom bg-danger">
                                         </div>
                                         <div id='mail_success' class='success'>¡Tu mensaje ha sido enviado correctamente!</div>
                                         <div id='mail_fail' class='error'>Lo siento, ha ocurrido un error, al enviar el mensaje.</div>
@@ -54,7 +54,7 @@
             <!-- section close -->
         </div>
         <!-- content close -->
-        <a href="#" id="back-to-top"></a>
+        <a class="bg-danger" href="#" id="back-to-top"></a>
         <!-- footer begin -->
         <footer>
             <div class="container">
@@ -106,7 +106,7 @@
                                     
                                 </div>
                                 <div class="de-flex-col">
-                                    <div class="social-icons">
+                                    <div class="social-icons bg-danger">
                                         <a href="https://www.facebook.com/LOGISTIC-BUSINESS-GROUP-SAS-140491652646223/"><i class="fa fa-facebook fa-lg"></i></a>
                                         <a href="https://twitter.com/Logisticbgroup"><i class="fa fa-twitter fa-lg"></i></a>
                                         <a href="https://www.linkedin.com/company/logistic-business-group?trk=mini-profile"><i class="fa fa-linkedin fa-lg"></i></a>

@@ -47,7 +47,7 @@
                                             <li><a href="digitacion-tabulacion.php">DIGITACIÓN Y TABULACIÓN</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Clientes</a></li>
+                                    <li><a href="nuestros-clientes.php">Clientes</a></li>
                                    
                                     <li><a href="#">Formación</a>
                                         <ul>
