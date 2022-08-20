@@ -3,16 +3,12 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>ProEmpresarial | SERVICIO CLIENTE</title>
+    <title>ProEmpresarial | LIDER COACH</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Proempresarial - Coaching Professional" name="description" />
     <meta content="" name="keywords" />
     <meta content="" name="author" />
-    <!--[if lt IE 9]>
-            <script src="js/html5shiv.js"></script>
-        <![endif]-->
-    <!-- CSS Files
-    ================================================== -->
+    
     <link id="bootstrap" href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link id="bootstrap-grid" href="css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
     <link id="bootstrap-reboot" href="css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
