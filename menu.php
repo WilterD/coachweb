@@ -26,7 +26,7 @@
                                 <div id="logo">
                                     <a href="index.html">
                                         <img alt="" class="logo" src="images/Logo/Logo3.png" />
-                                        <img alt="" class="logo-2" src="images/Logo/Logo3.png" />
+                                        <img alt="" class="logo-2" src="images/Logo/Logo1.png" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -60,8 +60,9 @@
                                             <li><a href="taller-metacompetencias.php">TALLER DE METACOMPETENCIAS</a></li>
                                             <li><a href="competencias-360-grados.php">COMPETENCIAS 360 GRADOS</a></li>
                                             <li><a href="lego-play.php">LEGO SERIOUS PLAY</a></li>
-                                            <li><a href="#">HERRAMIENTAS PARA CONSULTORES</a></li>
-                                            <li><a href="#">COACHING</a></li>
+                                            <li><a href="herramientas-consultores.php">HERRAMIENTAS PARA CONSULTORES</a></li>
+                                            <li><a href="herramientas-de-coaching-para-gerentes.php">HERRAMIENTAS DE COCHING PARA GERENTES</a></li>
+                                            <li><a href="coaching.php">COACHING</a></li>
                                         </ul>
                                     </li>
                                     <!-- <li><a href="contact.html">Contact</a></li> -->
