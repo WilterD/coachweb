@@ -25,8 +25,8 @@
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/Logo/Logo1.png" />
-                                        <img alt="" class="logo-2" src="images/Logo/Logo1.png" />
+                                        <img alt="" class="logo" src="images/Logo/Logo3.png" />
+                                        <img alt="" class="logo-2" src="images/Logo/Logo3.png" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -53,8 +53,8 @@
                                         <ul>
                                             <li><a href="programas-liderazgo.php">PROGRAMAS LIDERAZGO</a></li>
                                             <li><a target="_blank" href="https://escuelaproempresarial.com/">CURSOS VIRTUALES</a></li>
-                                            <li><a href="#">CERTIFIACIÓN DISC</a></li>
-                                            <li><a href="#">CERTIFICACIÓN COACH FUTURAMASTER</a></li>
+                                            <li><a href="certificacion-disc.php">CERTIFIACIÓN DISC</a></li>
+                                            <li><a href="certificacion-coach-futuramaster.php">CERTIFICACIÓN COACH FUTURAMASTER</a></li>
                                             <li><a href="servicio-cliente.php">SERVICIO AL CLIENTE</a></li>
                                             <li><a href="lider-coach.php">LIDER COACH 4.0</a></li>
                                             <li><a href="taller-metacompetencias.php">TALLER DE METACOMPETENCIAS</a></li>

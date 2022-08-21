@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="widget">
-                            <a href="index.html"><img alt="" class="img-fluid mb20" src="images/Logo/Logo.gif"></a>
+                            <a href="index.html"><img alt="" class="img-fluid mb20" src="images/Logo/Logo3.png"></a>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>Colombia</span>
                                 <span><i class="id-color fa fa-phone fa-lg"></i>317 666 8090</span>
