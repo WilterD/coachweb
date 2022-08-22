@@ -37,7 +37,6 @@
                                     <li><a href="index.html">Inicio</a></li>
                                     <li><a href="#">Servicios</a>
                                         <ul>
-                                            <li><a href="#">PROGRAMAS DE FORMACIÓN</a></li>
                                             <li><a href="software-de-rrhh.php">SOFTWARE DE RRHH</a></li>
                                             <li><a href="consultoria.php">CONSULTORIA</a></li>
                                             <li><a href="implementacion-organizacional.php">IMPLEMENTACIÓN ORGANIZACIONAL</a></li>
@@ -48,6 +47,7 @@
                                         </ul>
                                     </li>
                                     <li><a href="nuestros-clientes.php">Clientes</a></li>
+                                    <li><a href="team.php">Team</a></li>
                                    
                                     <li><a href="#">Formación</a>
                                         <ul>
