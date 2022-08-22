@@ -40,7 +40,7 @@
                             <div class="spacer-double"></div>
                         </div>
                         <div class="col-lg-4 text-lg-right">
-                            <a class="btn-custom" href="#">Contacto</a>
+                        <a class="btn-custom bg-danger" href="#section-contact">Contacto</a>
                         </div>
                     </div>
                 </div>

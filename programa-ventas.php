@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>ProEmpresarial | Digitación y Tabulación</title>
+    <title>ProEmpresarial | PROGRAMA DE VENTAS</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Proempresarial - Coaching Professional" name="description" />
     <meta content="" name="keywords" />
@@ -39,7 +39,7 @@
                             <div class="spacer-double"></div>
                         </div>
                         <div class="col-lg-4 text-lg-right">
-                            <a class="btn-custom" href="#">Contacto</a>
+                            <a class="btn-custom bg-danger" href="#section-contact">Contacto</a>
                         </div>
                     </div>
                 </div>

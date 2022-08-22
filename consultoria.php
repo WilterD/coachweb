@@ -8,7 +8,7 @@
     <meta content="Proempresarial - Coaching Professional" name="description" />
     <meta content="" name="keywords" />
     <meta content="" name="author" />
-    
+
     <link id="bootstrap" href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link id="bootstrap-grid" href="css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
     <link id="bootstrap-reboot" href="css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
@@ -26,7 +26,7 @@
 
 <body>
     <div id="wrapper">
-    <?php include('menu.php'); ?>
+        <?php include('menu.php'); ?>
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section id="section-home" class="text-light" aria-label="section" data-bgimage="url(images/services/programa-ventas.jpg) top" data-stellar-background-ratio=".2" data>
@@ -39,7 +39,7 @@
                             <div class="spacer-double"></div>
                         </div>
                         <div class="col-lg-4 text-lg-right">
-                            <a class="btn-custom" href="#">Contacto</a>
+                        <a class="btn-custom bg-danger" href="#section-contact">Contacto</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                             <h2>
                                 <b>OUTSOURSING DE COMERCIO EXTERIOR </b>
                             </h2>
-                            
+
                             <div class="small-border sm-left"></div>
                         </div>
                         <div class="col-md-12">
@@ -69,81 +69,81 @@
                         <div class="col-md-6">
                             <img alt="" class="img-fluid mb20" src="images/services/consulting1.jpg">
 
+                        </div>
+
+                        <h1 class="text-center">CONSULTORIA Y MENTORÍA EN:</h1>
+
+                        <ul class="ul-style-2">
+                            <li>Investigación de Mercados</li>
+                            <li>Uso correcto de incoterms</li>
+                            <li>Diagnóstico de la cadena de Abastecimiento</li>
+                            <li>Seguimiento y gestión comercial</li>
+                            <li>Liderazgo Empresarial</li>
+                            <li>Régimen cambiario</li>
+                            <li>Comunicación Dinámica</li>
+                            <li>Planes de Carrera</li>
+                            <li>Alineación y Compromiso</li>
+                            <li>Programas de Incentivos Atractivos</li>
+                            <li>Prevención y Solución de Conflictos</li>
+                            <li>Formación de Equipos de Trabajo Efectivos</li>
+                            <li>Creación de Equipos de Ventas Efectivos</li>
+                            <li>Servicio al Cliente de Clase Mundial</li>
+                            <li>Inducción a Nuevos Empleados</li>
+
+
+
+                            <li>Programas de Outplacement</li>
+                            <li>Mejorar la Cultura</li>
+                            <li>Preparación para el Cambio</li>
+                            <li>Plan de Marketing Nacional e Internacional</li>
+                            <li>Logística y abastecimiento Nacional e Internacional</li>
+                            <li>Internacionalizacion y Búsqueda de nuevos mercados</li>
+                            <li>Diseño de la red logística</li>
+                            <li>Proceso de distribución en Colombia de su productos</li>
+                            <li>Ventas y gestión Comercial</li>
+                            <li>Comercio exterior</li>
+                            <li>​Análisis estratégico empresarial</li>
+                            <li>​Reclutamiento y Selección de personal por Competencias.</li>
+                            <li>Implementación Método Assessment Center</li>
+                            <li>Pruebas Psicométricas Automatizadas</li>
+                            <li>Desarrollo de una cultura organizacional dinámica, efectiva y segura</li>
+                            <li>Cambio Organizacional</li>
+                            <li>Diseño y evaluación de su estructura organizacional.</li>
+                            <li>Evaluación de desempeño laboral</li>
+                            <li>Descripción y Evaluación de Puestos.</li>
+                            <li>Evaluación, diagnostico e intervención en cultura, cambio y clima organizacional</li>
+                            <li>Entre otros</li>
+                        </ul>
+
+
                     </div>
 
-                    <h1 class="text-center">CONSULTORIA Y MENTORÍA EN:</h1>
-
-                    <ul class="ul-style-2">
-                        <li>Investigación de Mercados</li>
-                        <li>Uso correcto de incoterms</li>
-                        <li>Diagnóstico de la cadena de Abastecimiento</li>
-                        <li>Seguimiento y gestión comercial</li>
-                        <li>Liderazgo Empresarial</li>
-                        <li>Régimen cambiario</li>
-                        <li>Comunicación Dinámica</li>
-                        <li>Planes de Carrera</li>
-                        <li>Alineación y Compromiso</li>
-                        <li>Programas de Incentivos Atractivos</li>
-                        <li>Prevención y Solución de Conflictos</li>
-                        <li>Formación de Equipos de Trabajo Efectivos</li>
-                        <li>Creación de Equipos de Ventas Efectivos</li>
-                        <li>Servicio al Cliente de Clase Mundial</li>
-                        <li>Inducción a Nuevos Empleados</li>
-
-                        
-
-<li>Programas de Outplacement</li>
-    <li>Mejorar la Cultura</li>
-        <li>Preparación para el Cambio</li>
-            <li>Plan de Marketing Nacional e Internacional</li>
-                <li>Logística y abastecimiento Nacional e Internacional</li>
-<li>Internacionalizacion y Búsqueda de nuevos mercados</li>
-<li>Diseño de la red logística</li>
-<li>Proceso de distribución en Colombia de su productos</li>
-<li>Ventas y gestión Comercial</li>
-<li>Comercio exterior</li>
-<li>​Análisis estratégico empresarial</li>
-<li>​Reclutamiento y Selección de personal por Competencias.</li>
-<li>Implementación Método Assessment Center</li>
-<li>Pruebas Psicométricas Automatizadas</li>
-<li>Desarrollo de una cultura organizacional dinámica, efectiva y segura</li>
-<li>Cambio Organizacional</li>
-<li>Diseño y evaluación de su estructura organizacional.</li>
-<li>Evaluación de desempeño laboral</li>
-<li>Descripción y Evaluación de Puestos.</li>
-<li>Evaluación, diagnostico e intervención en cultura, cambio y clima organizacional</li>
-<li>Entre otros</li>
-</ul>
 
 
-                 </div>
-                
-                    
-       
-                    
-                </section>
-            
-                <?php include('footer.php'); ?>
-    
-    <!-- Javascript Files
+
+            </section>
+
+            <?php include('footer.php'); ?>
+
+            <!-- Javascript Files
     ================================================== -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/jquery.isotope.min.js"></script>
-    <script src="js/easing.js"></script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/validation.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/enquire.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/jquery.plugin.js"></script>
-    <script src="js/typed.js"></script>
-    <script src="js/jquery.countTo.js"></script>
-    <script src="js/jquery.countdown.js"></script>
-    <script src="js/typed.js"></script>
-    <script src="js/designesia.js"></script>
-    <script src="js/cosas.js"></script>
+            <script src="js/jquery.min.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+            <script src="js/wow.min.js"></script>
+            <script src="js/jquery.isotope.min.js"></script>
+            <script src="js/easing.js"></script>
+            <script src="js/owl.carousel.js"></script>
+            <script src="js/validation.js"></script>
+            <script src="js/jquery.magnific-popup.min.js"></script>
+            <script src="js/enquire.min.js"></script>
+            <script src="js/jquery.stellar.min.js"></script>
+            <script src="js/jquery.plugin.js"></script>
+            <script src="js/typed.js"></script>
+            <script src="js/jquery.countTo.js"></script>
+            <script src="js/jquery.countdown.js"></script>
+            <script src="js/typed.js"></script>
+            <script src="js/designesia.js"></script>
+            <script src="js/cosas.js"></script>
 </body>
 
 </html>
