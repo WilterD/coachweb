@@ -53,7 +53,7 @@
                                         <ul>
                                             <li><a href="programas-liderazgo.php">PROGRAMAS LIDERAZGO</a></li>
                                             <li><a target="_blank" href="https://escuelaproempresarial.com/">CURSOS VIRTUALES</a></li>
-                                            <li><a href="certificacion-disc.php">CERTIFIACIÓN DISC</a></li>
+                                            <li><a href="certificacion-disc.php">CERTIFICACIÓN DISC</a></li>
                                             <li><a href="certificacion-coach-futuramaster.php">CERTIFICACIÓN COACH FUTURAMASTER</a></li>
                                             <li><a href="servicio-cliente.php">SERVICIO AL CLIENTE</a></li>
                                             <li><a href="lider-coach.php">LIDER COACH 4.0</a></li>
