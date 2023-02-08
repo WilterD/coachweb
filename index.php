@@ -20,7 +20,7 @@
     <link href="css/owl.transitions.css" rel="stylesheet" type="text/css" />
     <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
     <link href="css/jquery.countdown.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css?=v1" rel="stylesheet" type="text/css"  />
     <!-- Desarrollado por WilterD > Email: wilterprogramador18@gmail.com -->
     <link id="colors" href="css/colors/scheme-02.css" rel="stylesheet" type="text/css" />
     <link href="css/coloring.css" rel="stylesheet" type="text/css" />

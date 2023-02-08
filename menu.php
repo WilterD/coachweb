@@ -20,13 +20,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="de-flex sm-pt10">
+                        <div class="de-flex">
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/Logo/Logo3.png" />
-                                        <img alt="" class="logo-2" src="images/Logo/Logo1.png" />
+                                        <img alt="" class="logo" src="images/Logo/Logo3.png" width="320px" height="100px"/>
+                                        <img alt="" class="logo-2" src="images/Logo/Logo1.png" width="320px" height="80px" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -34,8 +34,8 @@
                             <div class="de-flex-col header-col-mid">
                                 <!-- mainmenu begin -->
                                 <ul id="mainmenu">
-                                    <li><a href="index.html">Inicio</a></li>
-                                    <li><a href="#">Servicios</a>
+                                    <li class="nav-items"><a href="index.html">Inicio</a></li>
+                                    <li class="nav-items"><a href="#">Servicios</a>
                                         <ul>
                                             <li><a href="software-de-rrhh.php">SOFTWARE DE RRHH</a></li>
                                             <li><a href="consultoria.php">CONSULTORIA</a></li>
@@ -46,10 +46,10 @@
                                             <li><a href="digitacion-tabulacion.php">DIGITACIÓN Y TABULACIÓN</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="nuestros-clientes.php">Clientes</a></li>
-                                    <li><a href="team.php">Team</a></li>
+                                    <li class="nav-items"><a href="nuestros-clientes.php">Clientes</a></li>
+                                    <li class="nav-items"><a href="team.php">Team</a></li>
                                    
-                                    <li><a href="#">Formación</a>
+                                    <li class="nav-items"><a href="#">Formación</a>
                                         <ul>
                                             <li><a href="programas-liderazgo.php">PROGRAMAS LIDERAZGO</a></li>
                                             <li><a target="_blank" href="https://escuelaproempresarial.com/">CURSOS VIRTUALES</a></li>

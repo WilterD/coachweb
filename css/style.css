@@ -616,11 +616,17 @@ header .header-col.mid .social-icons {
     display: inline;
     list-style: none;
     position: relative;
+    white-space: nowrap;
 }
+
+
+
 
 #mainmenu>li {
     letter-spacing: 1px;
     font-weight: 500;
+    flex: 1;
+    white-space: nowrap;
 }
 
 #mainmenu a {
@@ -1123,11 +1129,11 @@ header.header-mobile.has-topbar {
 
 header.header-mobile.has-topbar .header-row,
 header.header-mobile.has-topbar .header-col {
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 header.header-mobile.has-topbar #topbar {
-    margin-top: -15px;
+    margin-top: 0px;
     padding: 0;
 }
 
